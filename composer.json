@@ -1,0 +1,5 @@
+{
+    "require": {
+        "prof/cors-helper": "^1.7"
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "3576a8dba462f12fc83d2dace68c286d",
+    "packages": [
+        {
+            "name": "prof/cors-helper",
+            "version": "1.7",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/jassy1995/cors.git",
+                "reference": "54798f9a4d93dfce8d54910878f25e11a52d655d"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/jassy1995/cors/zipball/54798f9a4d93dfce8d54910878f25e11a52d655d",
+                "reference": "54798f9a4d93dfce8d54910878f25e11a52d655d",
+                "shasum": ""
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "CorsHelper\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Taye Abidakun",
+                    "email": "tayeabidakun@gmail.com"
+                },
+                {
+                    "name": "Babatunde Joseph",
+                    "email": "babatundejoseph85@gmail.com"
+                },
+                {
+                    "name": "Taiwo Rhoda",
+                    "email": "taiworhodaanuoluwa@gmail.com"
+                },
+                {
+                    "name": "Olutoye Abiodun",
+                    "email": "abiodunolutoye1912@gmail.com"
+                }
+            ],
+            "description": "This library is to enable cross site origin sharing",
+            "support": {
+                "issues": "https://github.com/jassy1995/cors/issues",
+                "source": "https://github.com/jassy1995/cors/tree/1.7"
+            },
+            "time": "2021-08-18T08:39:41+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": {},
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": {},
+    "platform-dev": {},
+    "plugin-api-version": "2.6.0"
+}
